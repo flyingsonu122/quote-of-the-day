@@ -4,7 +4,7 @@ const btn = document.getElementById('btn');
 const quote = document.getElementById('quote');
 const author = document.getElementById('author');
 
-let url = "http://quotes.rest/qod.json";
+let url = "https://quotes.rest/qod.json";
 
 
 
